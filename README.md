@@ -44,7 +44,7 @@ This project demonstrates how to build an **end-to-end Machine Learning web appl
 
 
 ## 📂 Project Structure
-
+```
 ML-WebApp/
 │
 ├── backend/
@@ -62,6 +62,7 @@ ML-WebApp/
 │ └── dataset.csv # Input dataset for EDA and training
 │
 └── README.md # Project documentation
+```
 
 
 ## 📦 Installation & Setup
